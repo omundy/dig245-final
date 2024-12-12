@@ -196,6 +196,7 @@ Design iterations of main views.
 1. Include a [Moodboard](https://www.google.com/search?q=web+design+moodboard) showing your research into how others have designed solutions to similar information and design problems
 1. Create multiple iterations of each different page / view your app.
 1. As per class [presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing), look at relevant examples of good design to help you improve your own, then experiment and iterate!
+1. **Do not use AI-generated logos, icons, images, etc.** An important part of a design practice includes creating the ideas for these things and producing them yourself. At the very least, consider using royalty free images created by actual humans from https://thenounproject.com/ or  https://unsplash.com/ instead of using whatever AI barfs up.
 
 
 <details>
