@@ -271,6 +271,17 @@ Your finished project should include:
 <details>
 <summary>Past examples</summary>
 
+
+Need video from Pacis
+https://www.youtube.com/watch?v=d7x34FpXjvo
+
+
+
+- 2024
+	- Pacis [T.O.S. Lens](https://n-pacis.github.io/dig245-final/) browser [extension](https://chromewebstore.google.com/detail/tos-lens/ebogajndhffhemjpkopgldlfilccodgc) 
+	- Mel [DC Navigator](https://hello2006-debug.github.io/dig245-final/)
+	- Julia [Project Unsubscribe](https://siqjulia.github.io/dig245-final/)
+	- Whitney [Mudgy]()
 - 2023
     - David and Tyler [Fortune Generator](https://davidmhilton.github.io/dig245-final)
     - Yumna and Jeremy [Fly on the Wall](https://yuahmed.github.io/fly-on-the-wall/)
