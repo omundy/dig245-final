@@ -15,7 +15,9 @@ Your application will consist of HTML, CSS, Javascript, and any additional libra
 
 
 <details>
-<summary>Learning Objectives</summary>
+<summary>Learning Objectives, Preparation, Rubric</summary>
+
+### Learning Objectives
 
 Students who complete this assignment will be able to:
 
@@ -24,10 +26,8 @@ Students who complete this assignment will be able to:
 - Use design processes (grids, typography, design principles, and iteration) to create a custom responsive web application design.
 - Use HTML, CSS, JS, and any additional frameworks or libraries to create a custom web application.
 
-</details>
 
-<details>
-<summary>Preparation</summary>
+### Preparation
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
@@ -36,10 +36,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [Codecademy: JS 7-2 Iterators](https://www.codecademy.com/learn/introduction-to-javascript) (1-9)
 - [Codecademy: JS 8-1 Objects](https://www.codecademy.com/learn/introduction-to-javascript) (1-10)
 
-</details>
-
-<details>
-<summary>Rubric</summary>
+### Rubric
 
 The final grade incorporates preparation scores with the final score ([rubric](https://docs.google.com/document/d/1gqAB_AHkMC6uKr_1uP9JzPwWclABw1RAB7KwEgAQSds/edit)).
 
@@ -167,7 +164,7 @@ Create a pitch deck (10-15 slide **Google Presentation**)* to share and plan you
 
 Create a working “proof of concept” of your app.
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
+1. Fork this repository and clone it to your machine.
 1. Your prototype should contain the essential functions of your project.
 1. Your work should be live (able to be shared via a link in Slack)
 1. Feel free to fork and use any example repository from class to get started.
@@ -329,6 +326,8 @@ https://www.youtube.com/watch?v=d7x34FpXjvo
 
 
 ## Resources
+
+### Technology
 
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
