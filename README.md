@@ -286,7 +286,7 @@ https://www.youtube.com/watch?v=d7x34FpXjvo
     - Richard [crackgrevocab.co](https://www.crackgrevocab.co/)
     - Will [ShareSpace](https://wcox2.github.io/dig245-final/)
     - Patrick [tswiftly.com](https://patrickleary.dcreate.domains/tswiftly/index.html)
-    - David Y. [Graphify](https://graphify.glitch.me/) (alt url: https://graph-if-y.netlify.app/ )
+    - David Y. [Graphify](https://graphify.stream/)
 - 2022
     - Lillian [Social Mediator](https://limilano.github.io/dig245-final/)
     - Kate [More Than a Number](https://katehynes.github.io/dig245-final/) ([video](https://www.youtube.com/watch?v=DVVDX7hq6ew&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=3))
