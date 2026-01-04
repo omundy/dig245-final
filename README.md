@@ -268,7 +268,10 @@ Your finished project should include:
 <details>
 <summary>Past examples</summary>
 
-
+- 2025 
+  - Delila [American User Stories](https://delila-cruz.github.io/dig245-final/)
+  - Matthew [A visualization of the U.S. affordability crisis](https://matthewpearso.github.io/finscroll/)
+  - Dmytro [Machine Learning Training Dynamics](https://dmku33.github.io/web-dev-project/)
 - 2024
 	- Pacis [T.O.S. Lens](https://n-pacis.github.io/dig245-final/) browser [extension](https://chromewebstore.google.com/detail/tos-lens/ebogajndhffhemjpkopgldlfilccodgc) [video](https://www.youtube.com/watch?v=ooLNfVshvMw&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=2)
 	- Mel [DC Navigator](https://hello2006-debug.github.io/dig245-final/)
