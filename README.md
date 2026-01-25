@@ -122,6 +122,7 @@ In groups, brainstorm on your topic(s) use the <a href="https://omundy.github.io
 Create a pitch deck (10-15 slide **Google Presentation**)* to share and plan your project that contains:
 
 1. A one paragraph introduction to your concept and what you plan to make. Who will use this and why?
+1. Audience - Who will use this and why? Write a [user story](https://www.atlassian.com/agile/project-management/user-stories) describing their goals.
 1. An initial attempt at an [identity](https://docs.google.com/presentation/d/1exnY8fjVsOc3bKZFESJIM2s4JKxhqg_oASPDPokSfrE/edit?usp=sharing) (e.g. a logo, word mark, style guide, etc.).
 1. Competition Scan - Examples (2–3) of similar works (in concept or tech) with images and links.
 1. Flowcharts (2–3) showing each step users see, and another [showing how data works](https://www.google.com/search?q=a+flowchart+that+tracks+data+through+the+app&safe=off&tbm=isch) in the app
@@ -189,11 +190,11 @@ In groups, share your prototypes to get feedback:
 Design iterations of main views.
 
 1. The design should reflect the overall concept and goals of your project.
-1. Create your design iterations with [Figma](https://figma.com), or use the Bootstrap template included in this repo `designs/1.psd`. **Show your work!** Do not delete previous versions—we want to see your progress as you iterate and improve your designs.
+1. Create your design iterations with [Figma](https://figma.com), using provided templates. **Show your work!** Do not delete previous versions—we want to see your progress as you iterate and improve your designs.
 1. Include a [Moodboard](https://www.google.com/search?q=web+design+moodboard) showing your research into how others have designed solutions to similar information and design problems
 1. Create multiple iterations of each different page / view your app.
 1. As per class [presentations](https://docs.google.com/presentation/d/1BiIHVEQjmIb2k2vB6N3x1g_S3KSLyZq2YCniq1ONjg8/edit?usp=sharing), look at relevant examples of good design to help you improve your own, then experiment and iterate!
-1. **Do not use AI-generated logos, icons, images, etc.** An important part of a design practice includes creating the ideas for these things and producing them yourself. At the very least, consider using royalty free images created by actual humans from https://thenounproject.com/ or  https://unsplash.com/ instead of using whatever AI barfs up.
+1. **Do not use AI-generated logos, icons, images, etc.** An important part of a design practice includes creating the ideas for these things and producing them yourself. At the very least, consider using royalty free images created by actual humans from [thenounproject.com](https://thenounproject.com/) or  [unsplash.com](https://unsplash.com/) instead of using whatever AI barfs up.
 
 
 <details>
