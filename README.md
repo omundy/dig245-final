@@ -66,8 +66,8 @@ let grade = milestones + (deliverables * 0.8);
 
 *Identify a topic, collect research, prepare a summary for a brainstorming session.*
 
-1. **Identify potential topics** to explore. It shouldn't be too specific, nor too broad. Is there a specific problem you want to solve? Or do you wish to address issues by [problematizing](https://en.wikipedia.org/wiki/Problematization) your subject?
-1. **Collect research** (related articles, etc.) **and examples** (2-3 links or summaries of similar projects). See the [Critical Web Design Index](https://criticalwebdesign.github.io/index) for inspiration.
+1. **Identify potential topics** to explore. It shouldn't be too specific, nor too broad. Is there a specific problem you want to solve? Or do you wish to address issues by [problematizing](https://en.wikipedia.org/wiki/Problematization) your subject? (2-3 sentences)
+1. **Collect research** (1-2 related articles, with summaries) **and examples** (3 links with summaries of inspiring / related projects). See the [Critical Web Design Index](https://criticalwebdesign.github.io/index) for inspiration.
 1. **Identify new skills or technologies** (e.g. a design method, programming pattern, code library, etc.) you are interested to learn and could potentially use in your project.
 1. **Write a summary** of your topic(s), research, and technology (3–4 sentences). Address why you are drawn to this topic and why it is important to explore. Identify the communities, resources, and issues involved. What [frameworks](https://docs.google.com/presentation/d/1OWc_e1pquvwKi4qxJShsZ1Rqia1dbDBcwpxYwdOic7o/edit#slide=id.g165f853ab3b_0_0) or methodologies might you use?
 1. Bring the above to class for the...
@@ -227,9 +227,8 @@ Examples:
 <details>
 <summary>In-class activity</summary>
 
-1. Make sure your project is live and ready to share. Post a link to it and Figma in Slack.
-1. Share your project in a small group (watch other use it, get specific feedback)
-1. Then, we'll go around the room and those who wish can share with the whole class in a <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (3 min.) format.
+- Be ready to explain the current status of your work.
+- Bring specific questions or unknowns (concept, design, tech) you would like to discuss with your group.
 
 </details>
 
@@ -261,6 +260,17 @@ Your finished project should include:
 
 1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
 
+
+<details>
+<summary>In-class activity</summary>
+
+Present your final project and plan for deliverables
+
+1. Make sure your project is live and ready to share. Post a link to it and Figma in Slack.
+1. Share your project in a small group (watch other use it, get specific feedback)
+1. Then, we'll go around the room and those who wish can share with the whole class in a <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (3 min.) format.
+
+</details>
 
 
 
